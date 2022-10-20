@@ -1,10 +1,10 @@
-# Inserimento-PLC-e-G120-e-assegnazione-PN
+# Inserimento-PLC-e-G120C-e-assegnazione-PN
 Semplice esempio TIA Portal Openness che esegue le seguenti operazioni:
 
 - Aggancio all'istanza TIA Portal e al progetto attualmente aperto
 - Inserimento di una CPU S7-1513
 - Assegnazione dell'indirizzo IP 192.168.0.10 al PLC
-- Inserimento di un drive G120 integrato
+- Inserimento di un drive G120C integrato
 - Assegnazione dell'indirizzo IP 192.168.0.11 al drive
 - Creazione di una rete ethernet nel progetto
 - Collegamento dei due dispositivi alla rete appena creata
